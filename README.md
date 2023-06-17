@@ -52,4 +52,4 @@ The results of the spam mail detection can be found in the `spam_detection.ipynb
 
 This project showcases the application of logistic regression for spam mail detection. By utilizing the provided code and dataset, researchers and practitioners can develop effective models to identify and filter out spam emails.
 
-For any questions or issues, please feel free to contact [your-name](mailto:your-email@example.com).
+For any questions or issues, please feel free to contact [my email](mailto:alansabujohn@GithubSemp-AI).
